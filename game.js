@@ -85,7 +85,7 @@ getNewQuestion = () => {
     let choice1 = document.querySelector('.choice1')
     let choice2 = document.querySelector('.choice2')
     let choice3 = document.querySelector('.choice3')
-    let choice4 = document.querySelector('.``choice4')
+    let choice4 = document.querySelector('.choice4')
 
     console.log(choices)
 
